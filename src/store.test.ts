@@ -89,9 +89,4 @@ describe('snapshot', () => {
 
     expect(snapshot.fullName).toBe('Peter Parker');
   });
-
-  // expect(snapshot.fullName).toBe('Peter Parker');
-
-  // snapshot.firstName = 'Tom';
-  // expect(snapshot.fullName).toBe('Peter Parker');
 });
