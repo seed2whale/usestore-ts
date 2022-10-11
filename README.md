@@ -1,5 +1,8 @@
 # usestore-ts - React state management library
 
+[![Build Status](https://github.com/seed2whale/usestore-ts/workflows/Test/badge.svg?branch=main)](https://github.com/seed2whale/usestore-ts/actions)
+[![npm](https://img.shields.io/npm/v/usestore-ts)](https://www.npmjs.com/package/usestore-ts)
+
 ## Installation
 
 ```bash
