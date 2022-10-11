@@ -1,0 +1,7 @@
+/node_modules/
+/coverage/
+.github
+.vscode
+.eslint*
+tsconfig.json
+jest.config.js
