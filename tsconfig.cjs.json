@@ -5,7 +5,6 @@
     "target": "ES6",
     "module": "CommonJS",
     "moduleResolution": "Node",
-    "outDir": "./dist/cjs",
-    "declarationDir": "./dist/cjs/types"
+    "outDir": "./dist/cjs"
   }
 }

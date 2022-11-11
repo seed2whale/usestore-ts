@@ -1,6 +1,6 @@
 {
   "name": "usestore-ts",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "usestore-ts - React state management library",
   "keywords": [
     "usestore-ts"

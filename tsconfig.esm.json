@@ -5,7 +5,6 @@
     "target": "ES2022",
     "module": "ESNext",
     "moduleResolution": "NodeNext",
-    "outDir": "./dist/esm",
-    "declarationDir": "./dist/esm/types"
+    "outDir": "./dist/esm"
   }
 }
